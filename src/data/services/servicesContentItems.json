@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Truck logistics",
+        "link": "/service-inside",
+        "imgSrc": "assets/img/demo/15_img.jpg",
+        "description": "On the other hand, we denounce with righteous indignation and..."
+    },
+    {
+        "id": "2",
+        "title": "Ship logistics",
+        "link": "/service-inside",
+        "imgSrc": "assets/img/demo/16_img.jpg",
+        "description": "On the other hand, we denounce with righteous indignation and..."
+    },
+    {
+        "id": "3",
+        "title": "Storage",
+        "link": "/service-inside",
+        "imgSrc": "assets/img/demo/18_img.jpg",
+        "description": "On the other hand, we denounce with righteous indignation and..."
+    },
+    {
+        "id": "4",
+        "title": "Plane logistics",
+        "link": "/service-inside",
+        "imgSrc": "assets/img/demo/17_img.jpg",
+        "description": "On the other hand, we denounce with righteous indignation and..."
+    }
+]

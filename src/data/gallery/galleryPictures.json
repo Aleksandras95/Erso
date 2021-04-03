@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Truck logistics",
+        "imageLink": "assets/img/demo/02_img.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 2,
+        "title": "Ship logistics",
+        "imageLink": "assets/img/demo/05_img.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 3,
+        "title": "Storage logistics",
+        "imageLink": "assets/img/demo/08_img.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 4,
+        "title": "Plane logistics",
+        "imageLink": "assets/img/demo/04_img.jpg",
+        "link": "/gallery-inside"
+    }
+]
